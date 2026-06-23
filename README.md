@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**RebecaCAstro22/RebecaCAstro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I´m Rebeca!
 
-Here are some ideas to get you started:
+Ingeniera en Ciencias de la Computación en formación, apasionada por convertir la tecnología en un motor de impacto social. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Toolbox
+
+Mi stack técnico está enfocado en el desarrollo full-stack, la ciencia de datos y la automatización:
+
+Frontend & Web: React, Tailwind CSS.
+
+Data Science & Analysis: Python (Pandas, Scikit-learn).
+
+Databases: PostgreSQL, SQL Server.
+
+Robotics & Hardware: Arduino, MATLAB, C++.
+
+AI Tools: Experta en integrar herramientas de desarrollo basadas en IA para acelerar el ciclo de vida de los proyectos.
+
+## Github status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RebecaCAstro22)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
